@@ -1,0 +1,8 @@
+$DEFAULT_MAIL_DOMAIN = "padl.com";
+
+
+
+# Default base
+
+$DEFAULT_BASE = "dc=padl,dc=com";
+

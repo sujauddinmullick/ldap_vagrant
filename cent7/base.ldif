@@ -1,0 +1,14 @@
+dn: dc=msystechnologies,dc=local
+dc: msystechnologies
+objectClass: top
+objectClass: domain
+
+dn: ou=people,dc=msystechnologies,dc=local
+ou: people
+objectClass: top
+objectClass: organizationalUnit
+
+dn: ou=group,dc=msystechnologies,dc=local
+ou: group
+objectClass: top
+objectClass: organizationalUnit

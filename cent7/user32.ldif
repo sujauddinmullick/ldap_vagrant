@@ -1,0 +1,17 @@
+dn: uid=user32,ou=people,dc=msystechnologies,dc=local
+uid: user32
+cn: user32
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+userPassword: mst12345
+shadowLastChange: 16579
+shadowMin: 0
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 1032
+gidNumber: 1032
+homeDirectory: /home/user32
+gecos: Added from client

@@ -1,0 +1,20 @@
+# AUTO-GENERATED FILE - DO NOT EDIT!! Use ldapmodify.
+# CRC32 1f36b291
+dn: cn=config
+objectClass: olcGlobal
+cn: config
+olcConnMaxPending: 100
+olcConnMaxPendingAuth: 1000
+olcIdleTimeout: 180
+olcArgsFile: /var/run/openldap/slapd.args
+olcPidFile: /var/run/openldap/slapd.pid
+olcTLSCACertificatePath: /etc/openldap/certs
+olcTLSCertificateFile: "OpenLDAP Server"
+olcTLSCertificateKeyFile: /etc/openldap/certs/password
+structuralObjectClass: olcGlobal
+entryUUID: c59b3e7c-38c6-1035-96e0-e913b393d761
+creatorsName: cn=config
+createTimestamp: 20151217050001Z
+entryCSN: 20151217050001.063011Z#000000#000#000000
+modifiersName: cn=config
+modifyTimestamp: 20151217050001Z

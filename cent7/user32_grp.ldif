@@ -1,0 +1,6 @@
+dn: cn=user32,ou=group,dc=msystechnologies,dc=local
+objectClass: posixGroup
+objectClass: top
+cn: user32
+userPassword: mst12345
+gidNumber: 1032
