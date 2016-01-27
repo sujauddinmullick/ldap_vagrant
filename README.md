@@ -5,6 +5,7 @@
 1. go to cent7 directory
 2. modify the Vagrantfile as per your rerquirement
 2. run vagrant up --provision
+
 #Client:
 1. go to ldap_client directory
 2. modify the Vagrantfile as per your requirement
